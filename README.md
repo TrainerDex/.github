@@ -1,3 +1,5 @@
+[![Discord](https://discordapp.com/api/v6/guilds/364313717720219651/widget.png?style=shield)](http://discord.trainerdex.co.uk/)
+
 ## Name
 
 TrainerDex is comprised of two parts: Trainer and Dex. There shouldn't be a space between the two but they should be indicated by a change in capitalisation or font size.

@@ -2,20 +2,21 @@
 
 ## Name
 
-TrainerDex is comprised of two parts: Trainer and Dex. There shouldn't be a space between the two but they should be indicated by a change in capitalisation or font size.
+TrainerDex is comprised of two parts: Trainer and Dex. There should never be a space between the two and the D in Dex should be capitalized. 
+_The Dex_ is a nickname for the database itself. 
 
-#### Use
+#### Valid
 - [x] TrainerDex
-- [x] TRAINERDEX - although discouraged
 - [x] TDX
-#### Don't use
+
+#### Invalid
 - [ ] Trainerdex
 - [ ] trainerdex
 - [ ] Tdx
 - [ ] TDx
 - [ ] tdx
 
-## Colours
+## Brand Colours
 ### RED
 
 HEX: #ca3755
@@ -34,3 +35,22 @@ RGB: 242 242 242
 ## Font
 
 * [Raleway (Extra Bold & Light)](https://fonts.google.com/specimen/Raleway)
+
+## i18n
+In an effort to appeal to more regions, you may use a localized version of the name. But the logo/typography should stay in English. This is subject to change but don't panic!
+
+This is a WIP. 
+
+| Lang                 | Code  | Local                | Latin-text        | Notes                         |
+|----------------------|-------|----------------------|-------------------|-------------------------------|
+| Chinese              | zh-HK | 培训师圖鑑           | Péixùn shī tújiàn |                               |
+| Brazilian Portuguese | pt-BR | Treinador(a)Dex      |                   | "Trainer" is gender specific. |
+| French               | fr    | Entraîneu(r/se)Dex   |                   | See pt-BR.                    |
+| German               | de    | Trainer(in)Dex       |                   | See pt-BR.                    |
+| Italian              | it    | Allenat(ore/rice)Dex |                   | See pt-BR.                    |
+| Japanese             | ja    | トレーナー図鑑       | Torēnā zukan      |                               |
+| Korean               | ko    | 트레이너도감         | teuleineodogam    |                               |
+| Russian              | ru    | ТренераДекс          |                   |                               |
+| Spanish              | es    | Entrenador(a)Dex     |                   | See pt-BR                     |
+| Thai                 | th    | เทรนเนอร์เด็กซ์         |                   |                               |
+

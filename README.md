@@ -1,4 +1,4 @@
-[![Discord](https://discordapp.com/api/v6/guilds/364313717720219651/widget.png?style=shield)](http://discord.trainerdex.co.uk/)
+[![Discord](https://discordapp.com/api/v6/guilds/364313717720219651/widget.png?style=shield)](http://discord.trainerdex.app/)
 
 ## Name
 

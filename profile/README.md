@@ -10,4 +10,4 @@
 > 
 > Thank you for being part of the TrainerDex community. It's been an incredible journey, and we appreciate your support.
 >
-> Regards, [@ukbigdave](https://github.com/ukbigdave)https://github.com/ukbigdave
+> Regards, [@ukbigdave](https://github.com/ukbigdave)

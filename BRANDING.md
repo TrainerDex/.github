@@ -1,5 +1,3 @@
-[![Discord](https://discordapp.com/api/v6/guilds/364313717720219651/widget.png?style=shield)](http://discord.trainerdex.app/)
-
 ## Name
 
 TrainerDex is comprised of two parts: Trainer and Dex. There should never be a space between the two and the D in Dex should be capitalized. 
